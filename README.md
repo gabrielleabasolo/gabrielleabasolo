@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabrielleabasolo@gmail.com
+- 🎮 also a streamer follow me on Twitch.tv/angrytalong
+
+## Currently Studying PHP laravel
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielleabasolo)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleabasolo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
