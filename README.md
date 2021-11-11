@@ -14,4 +14,4 @@ gabrielleabasolo/gabrielleabasolo is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?gabrielleabasolo=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielleabasolo)](https://github.com/ryo-ma/github-profile-trophy)
